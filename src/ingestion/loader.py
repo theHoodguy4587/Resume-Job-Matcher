@@ -31,7 +31,7 @@ class DataLoader:
 
 ## quick test
 if __name__ == "__main__":
-    BASE_DIR = Path(__file__).resolve().parents[2]  # project root
+    BASE_DIR = Path(__file__).resolve().parents[2]  
     data_dir = BASE_DIR / "data"
 
     loader = DataLoader()
