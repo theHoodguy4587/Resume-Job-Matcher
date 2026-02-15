@@ -36,5 +36,11 @@ if __name__ == "__main__":
 
     loader = DataLoader()
     resume_text = loader.load(data_dir / "Senitha_Gunathilaka_Data_Science_Intern.pdf")
+    job_desc_text = loader.load(data_dir / "job_description.txt")
+    job_path = data_dir / "job_description.txt"
+    print("Job file exists?", job_path.exists())
+    print("Absolute path:", job_path.resolve())
 
+    
+    print(job_desc_text[:300])
     print(resume_text[:300])
