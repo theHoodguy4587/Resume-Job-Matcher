@@ -1,0 +1,26 @@
+Job description
+Intern – Data Analytics
+
+(Based at Malabe)
+
+MAS is Sri Lanka’s largest exporter and South Asia’s largest design-to-delivery solution providers in apparel and textile manufacturing. With a global community of 100,000, today, MAS spans across 13 countries with its portfolio expanding into wearable technology, FemTech, logistics and fabric parks worldwide. Over three decades, MAS has gained global recognition for its ethical and sustainable working environment as well as its impeccable craftsmanship and product excellence.
+
+Key Responsibilities
+• Assist the lead in Data Governance and Data Quality implementation tasks.
+• Monitoring ETL on SAP BW4HANA and SAP Datasphere ensuring reliability and availability of data.
+• Optimize data models, pipelines and ETL processes under guidance.
+• Support in developing gold-layer transformations in writing notebooks, testing logic, and validating datasets on Azure Databricks Gold layer.
+• Perform data comparisons and quality checks in Azure and SAP data platforms and resolve SAP platform related data and integration issues under guidance.
+• Support business users with troubleshooting related to reporting, training and best practices.
+• Support development of Power BI datasets and reports
+• Assist the BI Engineers
+
+Qualifications, Experience, Skill, and Competencies:
+• Graduate or Undergraduate in Computer Science, Data Analytics.
+• Basic knowledge of business intelligence.
+• Hands on knowledge of SQL & Python.
+• Understanding of data modelling.
+• Fundamental knowledge of data engineering concepts.
+• Basic familiarity with cloud data platforms.
+• Fundamental knowledge of data quality and data governance.
+• Strong attention to detail
