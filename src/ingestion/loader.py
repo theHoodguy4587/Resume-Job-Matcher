@@ -35,7 +35,7 @@ if __name__ == "__main__":
     data_dir = BASE_DIR / "data"
 
     loader = DataLoader()
-    resume_text = loader.load(data_dir / "Senitha_Gunathilaka_Data_Science_Intern.pdf")
+    resume_text = loader.load(data_dir / "resume_sample.pdf")
     job_desc_text = loader.load(data_dir / "job_description.txt")
     job_path = data_dir / "job_description.txt"
     print("Job file exists?", job_path.exists())

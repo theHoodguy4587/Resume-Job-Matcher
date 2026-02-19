@@ -41,7 +41,7 @@ if __name__=="__main__":
     BASE_DIR = Path(__file__).resolve().parents[2]  
     data_dir = BASE_DIR / "data"
 
-    resume_path=data_dir / "Senitha_Gunathilaka_Data_Science_Intern.pdf"
+    resume_path=data_dir / "resume_sample.pdf"
     job_desc_path=data_dir / "job_description.txt"
 
     pipeline_obj=pipeline()
