@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 # --- Header ---
-st.image("https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop", use_container_width=True)
+
 st.title("🤖 AI-Powered Resume Matcher")
 
 st.markdown("""
